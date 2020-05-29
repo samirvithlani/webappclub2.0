@@ -18,8 +18,7 @@
 
 
 		<property name="driverClassName" value="org.postgresql.Driver" />
-		<property name="url" value="jdbc:postgresql://
-ec2-34-230-149-169.compute-1.amazonaws.com:5432/dffp8n9pptc0j6?sslmode=require"/>
+		<property name="url" value="jdbc:postgresql://ec2-34-230-149-169.compute-1.amazonaws.com:5432/dffp8n9pptc0j6?sslmode=require"/>
 		<property name="username" value="gwjxvjlwogcsfd" />
 		<property name="password" value="2836da0422a75785918a5553b74bb282f86ddebea6644a267359b4fb2c0ad7cc" />
 	</bean>
